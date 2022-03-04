@@ -1,4 +1,4 @@
 # iOS-Development
 - Notes and codes
-- Period: 2021.01.20 - now
+- Period: 2022.01.24 - now
 - Swift Language Resources: https://www.cnswift.org/
